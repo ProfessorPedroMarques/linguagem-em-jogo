@@ -1,0 +1,12 @@
+linguagem-em-jogo@1.0.0 C:\Users\Samsung\Documents\inclusao_ary
+├── UNMET DEPENDENCY @vitejs/plugin-react@^4.3.4
+├── UNMET DEPENDENCY react-dom@^18.3.1
+├── UNMET DEPENDENCY react@^18.3.1
+└── UNMET DEPENDENCY vite@^5.4.11
+
+npm error code ELSPROBLEMS
+npm error missing: @vitejs/plugin-react@^4.3.4, required by linguagem-em-jogo@1.0.0
+npm error missing: react-dom@^18.3.1, required by linguagem-em-jogo@1.0.0
+npm error missing: react@^18.3.1, required by linguagem-em-jogo@1.0.0
+npm error missing: vite@^5.4.11, required by linguagem-em-jogo@1.0.0
+npm error A complete log of this run can be found in: C:\Users\Samsung\AppData\Local\npm-cache\_logs\2026-10-18T04_26_27_551Z-debug-0.log
